@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   const title="베토벤";
-  const img = "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven#/media/File:Beethoven.jpg"
+ // const img = "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven#/media/File:Beethoven.jpg"
   return (
     <div className="App">
       <h2>{title}</h2>
